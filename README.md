@@ -21,7 +21,7 @@ Data was collected using **Empower Oarlock sensors** during competitive regattas
 
 *Note: Raw data is excluded from this repo for privacy reasons. A synthetic sample dataset is provided for demonstration.*
 
-## 🧠 Methods  
+## Methods  
 - **Exploratory Data Analysis (EDA)** using `pandas`, `matplotlib`, and `seaborn`  
 - **Mixed-Effects Linear Models** with `statsmodels` to account for race as a random effect  
 - **Machine Learning Models**:
