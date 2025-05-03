@@ -19,7 +19,7 @@ Data was collected using **Empower Oarlock sensors** during competitive regattas
 - Synchronization variability metrics (e.g., SD of catch/finish timing, desync index)  
 - Boat velocity (split time over 500m)  
 
-*Note: Raw data is excluded from this repo for privacy reasons. A synthetic sample dataset is provided for demonstration.*
+*Note: Raw data is excluded from this repo for privacy reasons.*
 
 ## Methods  
 - **Exploratory Data Analysis (EDA)** using `pandas`, `matplotlib`, and `seaborn`  
